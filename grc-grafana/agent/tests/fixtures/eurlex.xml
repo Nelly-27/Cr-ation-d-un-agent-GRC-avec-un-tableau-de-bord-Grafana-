@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="./../screen-rss.xsl"?>
+<rss version="2.0">
+<channel xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <title>1 - Toute la législation du Parlement et du Conseil</title>
+   <pubDate>Sun, 08 Nov 2026 21:28:18 +0100</pubDate>
+   <description>Ce flux extrait les actes législatifs adoptés par le Conseil ou conjointement par le Conseil et le Parlement européen.</description>
+   <language>fr</language>
+   <link>https://eur-lex.europa.eu/homepage.html</link>
+   <image>
+      <title>1 - Toute la législation du Parlement et du Conseil</title>
+      <url>https://eur-lex.europa.eu/images/eurlex_logo.png</url>
+      <link>https://eur-lex.europa.eu/homepage.html</link>
+   </image>
+   <item>
+      <title>CELEX:32024R1252R(06):            Berichtigung der Verordnung (EU) 2024/1252 des Europäischen Parlaments und des Rates vom 11. April 2024 zur Schaffung eines Rahmens zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen und zur Änderung der Verordnungen (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1724 und (EU) 2019/1020 (ABl. L, 2024/1252, 3.5.2024)</title>
+      <description>Le rectificatif ne concerne pas la version française.</description>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1252R(06)</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:eae15e2c-d982-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Conseil de l’Union européenne, Parlement européen,</dc:creator>
+   </item><item>
+      <title>CELEX:32009L0081R(04):            Berichtigung der Richtlinie 2009/81/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien 2004/17/EG und 2004/18/EG (ABl. L 216 vom 20.8.2009)</title>
+      <description>Le rectificatif ne concerne pas la version française.</description>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009L0081R(04)</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:ead947da-d982-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Conseil de l’Union européenne, Parlement européen,</dc:creator>
+   </item><item>
+      <title>CELEX:32002R0889R(03)</title>
+      <description>Le rectificatif ne concerne pas la version française.</description>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002R0889R(03)</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:eaddb4ab-d982-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Conseil de l’Union européenne, Parlement européen,</dc:creator>
+   </item><item>
+      <title>CELEX:32026D05943: Décision du Conseil du 26 octobre 2026 portant remplacement d’un suppléant du conseil d’administration de l’Agence européenne pour la sécurité et la santé au travail pour Malte</title>
+      <description/>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D05943</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:a7888fa1-d8b9-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Conseil de l’Union européenne</dc:creator>
+   </item><item>
+      <title>CELEX:32011R1007R(08)</title>
+      <description>Le rectificatif ne concerne pas la version française.</description>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32011R1007R(08)</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:486a47a9-d8b9-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Parlement européen, Conseil de l’Union européenne,</dc:creator>
+   </item><item>
+      <title>CELEX:32026D2493: Décision (UE) 2026/2493 du Parlement européen et du Conseil du 21 octobre 2026 relative à la mobilisation du Fonds européen d’ajustement à la mondialisation en faveur des travailleurs licenciés, à la suite d’une demande présentée par la Finlande (EGF/2026/004 FI/Etelä-Suomi and Helsinki-Uusimaa paper)</title>
+      <description/>
+      <link>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2493</link>
+      <guid>https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELLAR:6434fee2-d8b9-11f1-8501-01aa75ed71a1</guid>
+      <category>Lex Alerts</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0100</pubDate>
+      <dc:creator>Conseil de l’Union européenne, Parlement européen,</dc:creator>
+   </item></channel></rss>

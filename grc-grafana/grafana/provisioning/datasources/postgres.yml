@@ -1,0 +1,18 @@
+# Source de données créée automatiquement au démarrage de Grafana.
+# Elle utilise le compte PostgreSQL en LECTURE SEULE : ni Grafana ni le MCP ne peuvent modifier la base.
+apiVersion: 1
+datasources:
+  - name: GRC PostgreSQL
+    uid: grc-postgres
+    type: grafana-postgresql-datasource
+    access: proxy
+    url: postgres:5432
+    user: ${POSTGRES_READER_USER}
+    isDefault: true
+    editable: false
+    jsonData:
+      database: ${POSTGRES_DB}
+      sslmode: disable
+      postgresVersion: 1700
+    secureJsonData:
+      password: ${POSTGRES_READER_PASSWORD}
